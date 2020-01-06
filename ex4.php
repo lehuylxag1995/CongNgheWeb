@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./public/css/bootstrap.min.css">
     <script src="./public/js/jquery-3.4.1.min.js"></script>
     <script src="./public/js/bootstrap.min.js"></script>
+    
     <title>Form biểu mẩu - bài tập số 4</title>
 </head>
 
@@ -111,7 +112,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-5 col-sm-offset-3" style="border: 1px solid red;">
+            <div class="col-sm-5 col-sm-offset-3">
                 <h3 class="control-label">Mở biểu mẩu đăng nhập</h3>
                 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modaldangnhap">
                     Mở hộp thoại
