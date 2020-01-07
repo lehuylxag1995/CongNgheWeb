@@ -20,11 +20,11 @@
             </div>
             <div class="col-sm-6">
                 <div class="btn-group pull-right">
-                    <a href="#" class="btn btn-primary">Trang chủ</a>
-                    <a href="#" class="btn btn-primary">Dịch vụ</a>
-                    <a href="#" class="btn btn-primary">Về chúng tôi</a>
-                    <a href="#" class="btn btn-primary">FAQ</a>
-                    <a href="#" class="btn btn-primary">Liên hệ</a>
+                    <a href="ex5.php" class="btn btn-primary">Trang chủ</a>
+                    <a href="service.php" class="btn btn-primary">Dịch vụ</a>
+                    <a href="about.php" class="btn btn-primary">Về chúng tôi</a>
+                    <a href="faq.php" class="btn btn-primary">FAQ</a>
+                    <a href="contact.php" class="btn btn-primary">Liên hệ</a>
                 </div>
             </div>
         </div>
@@ -100,11 +100,11 @@
                 <div>
                     <p>© Bản quyền thuộc về Công ty Du lịch Bụi.</p>
                     <ul class="nav nav-pills pull-right">
-                        <li><a href="#">Trang chủ</a></li>
-                        <li><a href="#">Dịch vụ</a></li>
-                        <li><a href="#">Về chúng tôi</a></li>
-                        <li><a href="#">FAQ</a></li>
-                        <li><a href="#">Liên hệ</a></li>
+                        <li><a href="ex5.php">Trang chủ</a></li>
+                        <li><a href="service.php">Dịch vụ</a></li>
+                        <li><a href="about.php">Về chúng tôi</a></li>
+                        <li><a href="faq.php">FAQ</a></li>
+                        <li><a href="contact.php">Liên hệ</a></li>
                     </ul>
                 </div>
             </footer>
