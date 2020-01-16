@@ -10,14 +10,15 @@
     <script src="./public/js/bootstrap.min.js"></script>
     <script src="./public/js/youtube.js"></script>
     <script src="./public/js/myscript.js"></script>
-    <title>Bài 1 - 2 </title>
+    <script src="./public/js/jquery.funtext.min.js"></script>
+    <title>Bài 1 - 2 - 3 - 4a </title>
 </head>
 
 <body>
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
-                <h2 class="text-center page-header">Các đoạn phim hay nhất</h2>
+                <h2 class="text-center page-header" id="titleH2">Các đoạn phim hay nhất</h2>
             </div>
         </div>
         <div class="row">

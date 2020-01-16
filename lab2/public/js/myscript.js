@@ -1,5 +1,6 @@
 $(document).ready(function () {
 
+    // Câu 2, 3
     $('a').each(function () {
         var linkURL = youtube.generateThumbnailUrl($(this).attr('href'));
         var img = $('<img>').attr('src', linkURL);
@@ -14,4 +15,6 @@ $(document).ready(function () {
         })
     });
 
+    // Câu 4a
+    $('#titleH2').funText(40, 'reverseCandy');
 });
